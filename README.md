@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&random=false&width=600&height=70&lines=🎬+MOVIE+SITE;Your+Personal+Movie+Hub;Pure+HTML+%7C+CSS+%7C+JS" alt="Typing SVG" />
-  
-  <br />
+
   
   <!-- Main Preview Image - BIG and BOLD -->
   <img src="https://i.ibb.co/YF3LmNpy/file-00000000f978720aa8e24739c6c544a4.png" alt="Movie Site Preview" width="800" style="border-radius: 15px; border: 3px solid #FF4500;" />
@@ -31,7 +28,7 @@ This is a **single HTML file** movie site - clean, fast, and works everywhere!
 ## 📸 **LIVE PREVIEW**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/emmyhenz/movie/main/screenshot.jpg" alt="Live Site Preview" width="900" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
+  <img src="https://i.ibb.co/Rpc5Q8Gr/1773278971964.jpg" alt="Live Site Preview" width="900" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
   
   <br />
   <br />
