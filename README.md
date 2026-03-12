@@ -1,4 +1,4 @@
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=FF4500&center=true&vCenter=true&width=600&height=70&lines=🎬+MOVIE+SITE;Your+Movie+Hub;Pure+HTML+%7C+CSS+%7C+JS" />
   
   <!-- Main Preview Image - BIG and BOLD -->
   <img src="https://i.ibb.co/YF3LmNpy/file-00000000f978720aa8e24739c6c544a4.png" alt="Movie Site Preview" width="800" style="border-radius: 15px; border: 3px solid #FF4500;" />
