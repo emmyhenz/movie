@@ -4,7 +4,7 @@
   <br />
   
   <!-- Main Preview Image - BIG and BOLD -->
-  <img src="https://raw.githubusercontent.com/emmyhenz/movie/main/preview.jpg" alt="Movie Site Preview" width="800" style="border-radius: 15px; border: 3px solid #FF4500;" />
+  <img src="https://i.ibb.co/YF3LmNpy/file-00000000f978720aa8e24739c6c544a4.png" alt="Movie Site Preview" width="800" style="border-radius: 15px; border: 3px solid #FF4500;" />
   
   <br />
   <br />
