@@ -240,24 +240,6 @@ index.html
 
 ---
 
-⚠️ FIX FOR TYPING SVG
-
-If the typing animation at the top isn't working, replace it with this static version:
-
-```html
-<h1>
-  <span style="color: #FF4500;">🎬 MOVIE SITE</span><br />
-  <span style="font-size: 24px; color: #666;">Your Personal Movie Hub</span>
-</h1>
-```
-
-Or use this working CDN link:
-
-```html
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=FF4500&center=true&vCenter=true&width=600&height=70&lines=🎬+MOVIE+SITE;Your+Movie+Hub;Pure+HTML+%7C+CSS+%7C+JS" />
-```
-
----
 
 💖 SUPPORT
 
